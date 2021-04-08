@@ -565,6 +565,7 @@ public class ArvoreAVL<G extends Comparable<G>> {
             }
 
             return rotacaoEsquerda(no);
+
         } else if (fb == -2) {
 
             /*
